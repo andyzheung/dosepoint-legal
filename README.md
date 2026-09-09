@@ -2,8 +2,8 @@
 
 Public support, privacy, and terms pages for the DosePoint iOS app.
 
-- Support: `index.html`
-- Privacy Policy: `privacy.html`
-- Terms of Service: `terms.html`
+- Language chooser: `index.html`
+- Simplified Chinese: `zh/index.html`, `zh/privacy.html`, `zh/terms.html`
+- English: `en/index.html`, `en/privacy.html`, `en/terms.html`
 
-The pages are bilingual (Simplified Chinese and English), mobile-first, and have no external runtime dependencies.
+The Chinese and English versions are separate, mobile-first, and have no external runtime dependencies.
